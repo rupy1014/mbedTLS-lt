@@ -1,0 +1,6 @@
+use_frameworks!
+target 'mbedTLS-lt_Tests' do
+  pod 'mbedTLS-lt', :path => '../'
+  
+  
+end
