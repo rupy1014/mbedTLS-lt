@@ -1,5 +1,5 @@
 PODS:
-  - mbedTLS-lt (0.1.0)
+  - mbedTLS-lt (3.5.1)
 
 DEPENDENCIES:
   - mbedTLS-lt (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  mbedTLS-lt: 3013d523b74a8cf02ad646a04b31a991aa3d3b3b
+  mbedTLS-lt: d0b46832676da2cd997f202afdbf707fe09026ce
 
 PODFILE CHECKSUM: 93358de42f12a9add1f3721c20e44db1baaf536b
 
