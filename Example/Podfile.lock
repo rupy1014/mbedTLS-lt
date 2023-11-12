@@ -1,0 +1,16 @@
+PODS:
+  - mbedTLS-lt (0.1.0)
+
+DEPENDENCIES:
+  - mbedTLS-lt (from `../`)
+
+EXTERNAL SOURCES:
+  mbedTLS-lt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mbedTLS-lt: 3013d523b74a8cf02ad646a04b31a991aa3d3b3b
+
+PODFILE CHECKSUM: 93358de42f12a9add1f3721c20e44db1baaf536b
+
+COCOAPODS: 1.14.2

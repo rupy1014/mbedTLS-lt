@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'mbedTLS-lt'
-  s.version          = '0.1.0'
+  s.version          = '3.5.1'
   s.summary          = 'A short description of mbedTLS-lt.'
 
 # This description is used to generate tags and improve search results.

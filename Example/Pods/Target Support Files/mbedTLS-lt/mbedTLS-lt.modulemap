@@ -1,0 +1,6 @@
+framework module mbedTLS_lt {
+  umbrella header "mbedTLS-lt-umbrella.h"
+
+  export *
+  module * { export * }
+}

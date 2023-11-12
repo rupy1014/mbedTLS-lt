@@ -1,0 +1,22 @@
+{
+  "name": "mbedTLS-lt",
+  "version": "0.1.0",
+  "summary": "A short description of mbedTLS-lt.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rupy1014/mbedTLS-lt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rupy1014": "rupy1014@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rupy1014/mbedTLS-lt.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "mbedTLS-lt/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_mbedTLS_lt_Tests {
+  umbrella header "Pods-mbedTLS-lt_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
